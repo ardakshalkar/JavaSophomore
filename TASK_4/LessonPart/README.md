@@ -1,0 +1,6 @@
+1. Create abstract class Animal, with abstract method sound()
+2. Create class Dog and Cat that extends from class Animal.
+3. In main method of class ZooKeeper: create Animal[] animals = new Animal[10];, and fill it randomly with 3 Dog objects and 3 Cat objects;After that program asks to enter some number between 0 and 10, if entered cell is not empty it must output what does this animal say, but if it is empty, it must say "NO SOUND. IT IS EMPTY"
+4. Update class Animal: it should also have variable int hunger = 100; also it should have abstract method feed that receives String food;
+5. Update classes Dog and Cat; so that when you feed Dog with 1 meat it reduces hunger by 30, and when you feed Cat with same amount of meat it reduces hunger by 50; When you give 1 fish to Dog it reduces hunger by 20, and by 40 for Cat
+6. In main method of class ZooFeeder: create HashMap with keys String, and values are Integer which stores information about amount of each type of food, fill it with Random numbers from 0 till 5; Also create two variables: one Dog and one Cat ;After that start feeding Cat until it gets hunger = 0; and start feeding Dog;At the end show how much food is left 
