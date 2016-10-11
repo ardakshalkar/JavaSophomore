@@ -16,4 +16,5 @@ P4: Create class Army, with attribute ArrayList<Hero> heroes, and String name.
 P5: Create attribute:
 - strategy, which is enum type it has two possible values: ONETOONE, MANYTOONE;
 create method attack(Army enemy) in class Army, in this method should hit other army's Heros, but according to strategy, so if strategy ONETOONE every Hero choose hero from other team according to their index in list, so first hero from Team1 hits first hero from Team2 and if strategy MANYTOONE all heros try to hit first enemy in the list
+
 P6: Create class War with main method; And create two Armies and let them fight with each other until one of them loses all players. Assign strategy one of the teams as ONETOONE and MANYTOONE. Fill each army with random number (from 90 to 100) of heros, and give them randomly weapons. In the end they show which team won;
