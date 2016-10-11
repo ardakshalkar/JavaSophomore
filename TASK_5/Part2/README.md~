@@ -1,0 +1,13 @@
+1. Create class Animal with methods:
+void feed()
+boolean isAlive()
+and private attributes:
+life = 100;
+Create classes Sheep, Cow, that extends from class Animal
+2. Create class Farm that have ArrayList of animals, and methods:
+void nextDay() - 
+void clean()
+and private attributes:
+int grass;
+int cleanness = 100;
+3. Create class FarmKeeper, with main method, and it creates Farm object
