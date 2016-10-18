@@ -2,7 +2,7 @@ P1: Create class Employee, with private attributes name, surname, salary, and pu
 Create get and set methods to name, surname and salary attribute
 Class Employee consist of attribute Employee manager, and ArrayList<Employee> subordinates
 
-P2: Create class Department, with attribute name, and Employee manager
+P2: Create class Department, with attribute name, and ArrayList<Employee> employees
 
 P3: Create ArrayList of Employees
 Read employees.txt and fill ArrayList of Employees
