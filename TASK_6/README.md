@@ -4,13 +4,15 @@ Class Employee consist of attribute Employee manager, and ArrayList<Employee> su
 
 P2: Create class Department, with attribute name, and Employee manager
 
-P3: Read from file information about employees and assign Employees to manager and etc
+P3: Create ArrayList of Employees
+Read employees.txt and fill ArrayList of Employees
+Output all employees that have managers
 
 P4: Create ArrayList of Departments.
+Read departments.txt and fill ArrayList of Departments
 Output all departments with name, and average salary, maximum salary, minimum salary and number of employees.
 
-P5: Create ArrayList of Employees and fill it with employees
-Output all employees that have managers
+
 
 
 
