@@ -1,9 +1,9 @@
-10101 Magzhan Zhumabayev 20000 10104
-10102 Saken Seifullin 20000 10104
-10103 Muhtar Auezov 25000 10104
-10104 Samat Beysenbayev 35000 10109
-10105 Marat Aspanov 21000 10108
-10106 Yerkin Baynazarov 30000 10108
-10107 Damir Eleusinov 30000 10108
-10108 Aspan Kokkozov 40000 10109
-10109 Temirbek Aymanov 100000 NONE
+10101 Magzhan Zhumabayev 20000
+10102 Saken Seifullin 20000
+10103 Muhtar Auezov 25000
+10104 Samat Beysenbayev 35000
+10105 Marat Aspanov 21000
+10106 Yerkin Baynazarov 30000
+10107 Damir Eleusinov 30000
+10108 Aspan Kokkozov 40000
+10109 Temirbek Aymanov 100000
