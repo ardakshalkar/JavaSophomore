@@ -5,8 +5,7 @@ P2: You create two variables dogCount and catCount which are by default 0. When 
 
 P2(advanced): Remove catCount and dogCount fields, and use instead of them HashMap<String,Integer>, where key will be animal name, and value will be amount of animals
 
-P3: Create class Dog and Cat.
-Create class Farm, which has two private fields dogCount and catCount. Also add public methods addCat, and addDog.
+P3: Create class Farm, which has two private fields dogCount and catCount. Also add public methods addCat, and addDog.
 These two methods increments corresponding value.
 
 P4: Update FarmFx class, let it have attribute Farm farm. So when you press Cat button, it calls addCat method of farm object, and when you press Dog button, it calls addDog method.
