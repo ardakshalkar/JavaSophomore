@@ -1,0 +1,4 @@
+dog 3 dog.png
+cat 4 cat.png
+skunk 2 skunk.png
+squirrel 10 squirrel.png
