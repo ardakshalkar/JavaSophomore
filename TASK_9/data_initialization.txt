@@ -1,0 +1,16 @@
+List<Discipline> disciplines = new ArrayList<>();
+disciplines.add(new Discipline("CS101","Java",3));
+disciplines.add(new Discipline("INF125","Algebra and Geometry",3));
+disciplines.add(new Discipline("INF216","Parallel Programming",2));
+disciplines.add(new Discipline("CS219","Calculus",2));
+
+List<Instructor> students = new ArrayList<>();
+students.add(new Instructor("Zhaparov","Meyrambek"));
+students.add(new Instructor("Bogdanchikov","Andrey"));
+students.add(new Instructor("Konstantin","Latuta"));
+
+List<Lesson> lessons = new ArrayList<>();
+lessons.add(new Lesson(disciplines.get(0),instructors.get(2)));
+lessons.add(new Lesson(disciplines.get(1),instructors.get(1)));
+lessons.add(new Lesson(disciplines.get(2),instructors.get(0)));
+lessons.add(new Lesson(disciplines.get(3),instructors.get(1)));

@@ -1,0 +1,5 @@
+{
+  "disciplines":[{"name":"Java","credits":3},{"name":"Informatics","credits":3},{"name":"Parallel Programming","credits":2}],
+  "instructors":[{"name":"Meyrambek","surname":"Zhaparov"},{"name":"Konstantin","surname":"Latuta"},
+                {"name":"Bogdanchikov","surname":"Andrey"}]
+}
