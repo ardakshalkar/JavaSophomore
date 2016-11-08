@@ -7,3 +7,15 @@ T3: Create JavaFX program that use FXML from T1. And load it with sample data (S
 T4: Make "Add Lesson" button work. When user clicks add Lessons, new Lesson created from specified fields.
 
 T5: Read data from data.json file and use it in your program as data source.
+
+-----
+
+H1: Create class Movie, with attributes country, name, rating, and watched
+
+H2: Create fxml layout like in homeworkscheme.png. We have 3 buttons, and listview above it.
+
+H3: Load movies from movies.json.
+
+H4: Create MovieCell class that shows how to render movies in ListView
+
+H5: Make buttons to sort list of items.
